@@ -1,7 +1,7 @@
 # Written by plainote/vesper's scripts/dev-release; each release replaces it.
 cask "vesper-dev" do
-  version "0.0.582"
-  sha256 "f547cc05470e3980046120ea53c24bc69fb0ca19e1c98211222a783dd353f21d"
+  version "0.0.583"
+  sha256 "32c5eba19ab821838a902ba26f611908cf64222349cbda43493a3e6c7abe101f"
 
   url "https://github.com/plainote/vesper-releases/releases/download/v#{version}/Vesper-Dev-#{version}.zip"
   name "Vesper Dev"
